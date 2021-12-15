@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (RK Borya.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  RK Borya.cpp
+C:\Users\USER\source\repos\RK Borya\RK Borya\RK Borya.cpp(39,11): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  RK Borya.vcxproj -> C:\Users\USER\source\repos\RK Borya\Debug\RK SistProg.exe
